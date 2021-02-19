@@ -15,10 +15,8 @@
 | Cars3D | Chairs | CelebA |
 | :---: | :---: | :---: |
 | ![image](./images/car_ours_1.png) | ![image](./images/chairs_ours_1.png) | ![image](./images/celeba_ours_1.png) |
-
-| Cat | Anime | 
-| :---: | :---: |
-| ![image](./images/cat_1.png) | ![image](./images/anima_1.jpg) |
+| Cat | Anime | MNIST |
+| ![image](./images/cat_1.png) | ![image](./images/anima_1.jpg) | ![image](./images/MNIST_1.png) |
 
 | Market-1501 | 
 | :---: | 
