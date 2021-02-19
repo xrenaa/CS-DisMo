@@ -11,7 +11,12 @@
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
 
-## Content transfer between images
+| Celeba | | |
+| :-- | :-- | :-- |
+| ![image](./images/movie_3.gif) | ![image](./images/movie_4.gif) | ![image](./images/movie_5.gif)
+| ![image](./images/movie_6.gif) | ![image](./images/movie_7.gif) | ![image](./images/movie_8.gif)
+
+## Content transfer
 | Cars3D | Chairs | CelebA |
 | :---: | :---: | :---: |
 | ![image](./images/car_ours_1.png) | ![image](./images/chairs_ours_1.png) | ![image](./images/celeba_ours_1.png) |
@@ -21,11 +26,6 @@
 | Market-1501 | 
 | :---: | 
 | ![image](./images/reid_2.png) |
-
-| Celeba | | |
-| :-- | :-- | :-- |
-| ![image](./images/movie_3.gif) | ![image](./images/movie_4.gif) | ![image](./images/movie_5.gif)
-| ![image](./images/movie_6.gif) | ![image](./images/movie_7.gif) | ![image](./images/movie_8.gif)
 
 | Unseen Image Inference|  | 
 | :---: | :---: |
