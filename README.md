@@ -28,6 +28,10 @@
 | :-- | :-- | :-- |
 | ![image](./images/movie_3.gif) | ![image](./images/movie_4.gif) | ![image](./images/movie_5.gif)
 | ![image](./images/movie_6.gif) | ![image](./images/movie_7.gif) | ![image](./images/movie_8.gif)
+
+| Unseen Image Inference|  | 
+| :---: | :---: |
+| ![image](./images/unseen_1.png) | ![image](./images/unseen_2.png) |
     
 
 ## BibTeX
