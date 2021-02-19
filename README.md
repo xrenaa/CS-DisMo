@@ -5,7 +5,7 @@
 > *arXiv preprint arXiv:2007.06600*
 > 
 [[Paper]()]
-[[Project Page]()]
+[[ Appendix]()]
 [[Demo]()]
 
 
