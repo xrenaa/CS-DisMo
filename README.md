@@ -35,10 +35,10 @@
 ## BibTeX
 
 ```bibtex
-@article{shen2020closedform,
-  title   = {Closed-Form Factorization of Latent Semantics in GANs},
-  author  = {Shen, Yujun and Zhou, Bolei},
+@article{ren2021CS,
+  title   = {Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglement},
+  author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
   journal = {arXiv preprint arXiv:2007.06600},
-  year    = {2020}
+  year    = {2021}
 }
 ```
