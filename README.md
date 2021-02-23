@@ -6,7 +6,7 @@
 > 
 [[Paper](http://arxiv.org/abs/2102.10544)]
 [[Appendix]()]
-[[Demo]()]
+[[Demo Video](https://www.youtube.com/watch?v=CAP3yGnCHqs)]
 
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
