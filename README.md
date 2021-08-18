@@ -2,7 +2,7 @@
 
 > **Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglement** <br>
 > Xuanchi Ren, Tao Yang, Yuwang Wang and Wenjun Zeng <br>
-> *arXiv preprint arXiv:2102.10544*
+> *ICCV Workshop 2021*
 > 
 [[Paper](http://arxiv.org/abs/2102.10544)]
 [[Appendix](https://xuanchiren.com/pub/CS-DisMo_appendix.pdf)]
@@ -35,10 +35,10 @@
 ## BibTeX
 
 ```bibtex
-@article{ren2021CS,
+@inproceedings{ren2021CS,
   title   = {Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglement},
   author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
-  journal = {arXiv preprint arXiv:2102.10544},
+  booktitle = {ICCVW},
   year    = {2021}
 }
 ```
